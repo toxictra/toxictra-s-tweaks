@@ -1,1 +1,2 @@
-# toxictra-s-tweaks[tweakpack.zip](https://github.com/user-attachments/files/25315123/tweakpack.zip)
+# toxictra-s-tweaks
+https://github.com/toxictra/toxictra-s-tweaks.git
